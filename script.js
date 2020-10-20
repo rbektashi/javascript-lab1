@@ -1,12 +1,12 @@
-const name = "Mitch";
-const age = 25;
-const birthday = "Janurary 24";
+const name = "Rae";
+const age = 28;
+const birthday = "November 26";
 const detroitGC = true;
 let lifeEvents = [
-  "I was born in Troy, Michigan",
-  "I went to Hope College",
-  "I went to junior Olympics when I was 10 years old. I placed 14th in the nation in the 800 meter event.",
-  "I'm a graduate of the front-end bootcamp.",
+  "I was born in Lake Havasu, Arizona",
+  "I went to 12 different schools",
+  "I coached my sisters JV cheer team at Dakota Highschool",
+  "I will be a graduate of the front-end bootcamp.",
 ];
 
 if (detroitGC === true) {
