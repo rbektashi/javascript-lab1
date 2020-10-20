@@ -1,10 +1,10 @@
 const name = "Rae";
 const age = 28;
 const birthday = "November 26";
-const detroitGC = true;
+let detroitGC = true;
 let lifeEvents = [
   "I was born in Lake Havasu, Arizona",
-  "I went to 12 different schools",
+  "I have been to 13 different countries",
   "I coached my sisters JV cheer team at Dakota Highschool",
   "I will be a graduate of the front-end bootcamp.",
 ];
