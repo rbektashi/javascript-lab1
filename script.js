@@ -5,7 +5,7 @@ let detroitGC = true;
 let lifeEvents = [
   "I was born in Lake Havasu, Arizona",
   "I have been to 13 different countries",
-  "I coached my sisters JV cheer team at Dakota Highschool",
+  "I coached my little sisters JV cheer team at Chippewa Highschool",
   "I will be a graduate of the front-end bootcamp.",
 ];
 
